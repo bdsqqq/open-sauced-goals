@@ -1,8 +1,8 @@
 [
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 4611,
-    "open_issues_count": 6,
+    "stargazers_count": 4615,
+    "open_issues_count": 4,
     "forks_count": 71
   },
   {
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "httptoolkit/react-reverse-portal",
-    "stargazers_count": 569,
+    "stargazers_count": 571,
     "open_issues_count": 10,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "modrinth/knossos",
     "stargazers_count": 177,
-    "open_issues_count": 83,
+    "open_issues_count": 84,
     "forks_count": 50
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 17918,
-    "open_issues_count": 13,
-    "forks_count": 2454
+    "stargazers_count": 17921,
+    "open_issues_count": 14,
+    "forks_count": 2457
   },
   {
     "full_name": "TheoBr/init.tips",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 4379,
-    "open_issues_count": 49,
+    "stargazers_count": 4388,
+    "open_issues_count": 51,
     "forks_count": 159
   },
   {
     "full_name": "ariakit/ariakit",
-    "stargazers_count": 5942,
+    "stargazers_count": 5941,
     "open_issues_count": 58,
     "forks_count": 324
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "IrisShaders/Iris",
-    "stargazers_count": 2259,
+    "stargazers_count": 2260,
     "open_issues_count": 151,
     "forks_count": 504
   },
