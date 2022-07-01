@@ -1,14 +1,26 @@
 [
   {
+    "full_name": "cocopon/tweakpane",
+    "stargazers_count": 2033,
+    "open_issues_count": 9,
+    "forks_count": 52
+  },
+  {
+    "full_name": "pmndrs/leva",
+    "stargazers_count": 2756,
+    "open_issues_count": 58,
+    "forks_count": 102
+  },
+  {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 4615,
+    "stargazers_count": 4636,
     "open_issues_count": 4,
     "forks_count": 71
   },
   {
     "full_name": "markdoc/next.js",
     "stargazers_count": 76,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 6
   },
   {
@@ -21,41 +33,41 @@
     "full_name": "blackd/Inventory-Profiles",
     "stargazers_count": 59,
     "open_issues_count": 10,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "httptoolkit/react-reverse-portal",
-    "stargazers_count": 571,
+    "stargazers_count": 572,
     "open_issues_count": 10,
     "forks_count": 21
   },
   {
     "full_name": "modrinth/knossos",
-    "stargazers_count": 177,
-    "open_issues_count": 84,
-    "forks_count": 50
+    "stargazers_count": 179,
+    "open_issues_count": 85,
+    "forks_count": 52
   },
   {
     "full_name": "TanStack/react-location",
-    "stargazers_count": 2183,
-    "open_issues_count": 22,
-    "forks_count": 102
+    "stargazers_count": 2187,
+    "open_issues_count": 23,
+    "forks_count": 103
   },
   {
     "full_name": "molefrog/wouter",
-    "stargazers_count": 4242,
+    "stargazers_count": 4251,
     "open_issues_count": 26,
-    "forks_count": 102
+    "forks_count": 101
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 17921,
+    "stargazers_count": 17972,
     "open_issues_count": 14,
-    "forks_count": 2457
+    "forks_count": 2462
   },
   {
     "full_name": "TheoBr/init.tips",
-    "stargazers_count": 48,
+    "stargazers_count": 51,
     "open_issues_count": 5,
     "forks_count": 9
   },
@@ -73,15 +85,15 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 4388,
-    "open_issues_count": 51,
-    "forks_count": 159
+    "stargazers_count": 4441,
+    "open_issues_count": 52,
+    "forks_count": 161
   },
   {
     "full_name": "ariakit/ariakit",
-    "stargazers_count": 5941,
-    "open_issues_count": 58,
-    "forks_count": 324
+    "stargazers_count": 5942,
+    "open_issues_count": 57,
+    "forks_count": 325
   },
   {
     "full_name": "ArthurCose/Lodestone-Warps",
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "IrisShaders/Iris",
-    "stargazers_count": 2260,
+    "stargazers_count": 2264,
     "open_issues_count": 151,
-    "forks_count": 504
+    "forks_count": 505
   },
   {
     "full_name": "bdsqqq/use-dynamic-refs",
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "toji/gl-matrix",
-    "stargazers_count": 4552,
+    "stargazers_count": 4557,
     "open_issues_count": 76,
     "forks_count": 677
   },
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "mvllow/next-pwa-template",
-    "stargazers_count": 299,
+    "stargazers_count": 301,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 5087,
+    "stargazers_count": 5097,
     "open_issues_count": 189,
-    "forks_count": 881
+    "forks_count": 880
   },
   {
     "full_name": "pmndrs/maath",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "pmndrs/suspend-react",
-    "stargazers_count": 869,
+    "stargazers_count": 871,
     "open_issues_count": 6,
     "forks_count": 16
-  },
-  {
-    "full_name": "matthewp/haunted",
-    "stargazers_count": 2365,
-    "open_issues_count": 57,
-    "forks_count": 94
-  },
-  {
-    "full_name": "hlaw/codegrid-js",
-    "stargazers_count": 52,
-    "open_issues_count": 5,
-    "forks_count": 23
   }
 ]
