@@ -1,9 +1,9 @@
 [
   {
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 4857,
-    "open_issues_count": 112,
-    "forks_count": 241
+    "stargazers_count": 4864,
+    "open_issues_count": 113,
+    "forks_count": 243
   },
   {
     "full_name": "mobends/MoBends",
@@ -13,26 +13,26 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 7601,
-    "open_issues_count": 45,
-    "forks_count": 231
+    "stargazers_count": 7658,
+    "open_issues_count": 43,
+    "forks_count": 233
   },
   {
     "full_name": "cocopon/tweakpane",
-    "stargazers_count": 2039,
+    "stargazers_count": 2041,
     "open_issues_count": 10,
     "forks_count": 52
   },
   {
     "full_name": "pmndrs/leva",
-    "stargazers_count": 2793,
-    "open_issues_count": 59,
+    "stargazers_count": 2796,
+    "open_issues_count": 60,
     "forks_count": 101
   },
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 4661,
-    "open_issues_count": 6,
+    "stargazers_count": 4668,
+    "open_issues_count": 5,
     "forks_count": 72
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "theKashey/react-focus-on",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 9,
     "forks_count": 11
   },
@@ -62,36 +62,36 @@
   {
     "full_name": "modrinth/knossos",
     "stargazers_count": 182,
-    "open_issues_count": 85,
-    "forks_count": 51
+    "open_issues_count": 88,
+    "forks_count": 52
   },
   {
     "full_name": "TanStack/react-location",
-    "stargazers_count": 2192,
-    "open_issues_count": 24,
+    "stargazers_count": 2196,
+    "open_issues_count": 25,
     "forks_count": 103
   },
   {
     "full_name": "molefrog/wouter",
-    "stargazers_count": 4261,
+    "stargazers_count": 4263,
     "open_issues_count": 26,
     "forks_count": 102
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 18121,
-    "open_issues_count": 14,
-    "forks_count": 2471
+    "stargazers_count": 18182,
+    "open_issues_count": 15,
+    "forks_count": 2472
   },
   {
     "full_name": "t3-oss/init.tips",
-    "stargazers_count": 65,
+    "stargazers_count": 68,
     "open_issues_count": 7,
     "forks_count": 13
   },
   {
     "full_name": "youarerad/youareradweb",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 4,
     "forks_count": 4
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 4487,
-    "open_issues_count": 57,
-    "forks_count": 165
+    "stargazers_count": 4504,
+    "open_issues_count": 59,
+    "forks_count": 167
   },
   {
     "full_name": "ariakit/ariakit",
-    "stargazers_count": 5953,
+    "stargazers_count": 5956,
     "open_issues_count": 49,
     "forks_count": 326
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "IrisShaders/Iris",
-    "stargazers_count": 2271,
+    "stargazers_count": 2274,
     "open_issues_count": 155,
     "forks_count": 505
   },
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "toji/gl-matrix",
-    "stargazers_count": 4560,
+    "stargazers_count": 4562,
     "open_issues_count": 76,
     "forks_count": 677
   },
   {
     "full_name": "beerose/simple-zustand-devtools",
-    "stargazers_count": 82,
+    "stargazers_count": 84,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "mvllow/next-pwa-template",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 5109,
+    "stargazers_count": 5114,
     "open_issues_count": 189,
     "forks_count": 881
   },
   {
     "full_name": "pmndrs/maath",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 7,
     "forks_count": 5
   }
