@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "railwayapp/nixpacks",
+    "stargazers_count": 611,
+    "open_issues_count": 20,
+    "forks_count": 19
+  },
+  {
+    "full_name": "vercel-labs/next-swr-endpoints",
+    "stargazers_count": 63,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
+    "full_name": "KATT/next-router-query",
+    "stargazers_count": 23,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 4864,
+    "stargazers_count": 4899,
     "open_issues_count": 113,
-    "forks_count": 243
+    "forks_count": 247
   },
   {
     "full_name": "mobends/MoBends",
@@ -13,26 +31,26 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 7658,
-    "open_issues_count": 43,
-    "forks_count": 233
+    "stargazers_count": 7828,
+    "open_issues_count": 55,
+    "forks_count": 235
   },
   {
     "full_name": "cocopon/tweakpane",
-    "stargazers_count": 2041,
+    "stargazers_count": 2043,
     "open_issues_count": 10,
     "forks_count": 52
   },
   {
     "full_name": "pmndrs/leva",
-    "stargazers_count": 2796,
+    "stargazers_count": 2805,
     "open_issues_count": 60,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 4668,
-    "open_issues_count": 5,
+    "stargazers_count": 4677,
+    "open_issues_count": 4,
     "forks_count": 72
   },
   {
@@ -50,12 +68,12 @@
   {
     "full_name": "blackd/Inventory-Profiles",
     "stargazers_count": 60,
-    "open_issues_count": 10,
-    "forks_count": 14
+    "open_issues_count": 11,
+    "forks_count": 15
   },
   {
     "full_name": "httptoolkit/react-reverse-portal",
-    "stargazers_count": 575,
+    "stargazers_count": 578,
     "open_issues_count": 10,
     "forks_count": 21
   },
@@ -67,51 +85,51 @@
   },
   {
     "full_name": "TanStack/react-location",
-    "stargazers_count": 2196,
+    "stargazers_count": 2202,
     "open_issues_count": 25,
     "forks_count": 103
   },
   {
     "full_name": "molefrog/wouter",
-    "stargazers_count": 4263,
+    "stargazers_count": 4269,
     "open_issues_count": 26,
     "forks_count": 102
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 18182,
-    "open_issues_count": 15,
-    "forks_count": 2472
+    "stargazers_count": 18254,
+    "open_issues_count": 14,
+    "forks_count": 2480
   },
   {
     "full_name": "t3-oss/init.tips",
-    "stargazers_count": 68,
-    "open_issues_count": 7,
-    "forks_count": 13
+    "stargazers_count": 72,
+    "open_issues_count": 2,
+    "forks_count": 14
   },
   {
     "full_name": "youarerad/youareradweb",
-    "stargazers_count": 36,
-    "open_issues_count": 4,
-    "forks_count": 4
+    "stargazers_count": 42,
+    "open_issues_count": 5,
+    "forks_count": 5
   },
   {
     "full_name": "ossjs/release",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 4504,
+    "stargazers_count": 4571,
     "open_issues_count": 59,
-    "forks_count": 167
+    "forks_count": 169
   },
   {
     "full_name": "ariakit/ariakit",
-    "stargazers_count": 5956,
+    "stargazers_count": 5964,
     "open_issues_count": 49,
-    "forks_count": 326
+    "forks_count": 328
   },
   {
     "full_name": "ArthurCose/Lodestone-Warps",
@@ -139,9 +157,9 @@
   },
   {
     "full_name": "IrisShaders/Iris",
-    "stargazers_count": 2274,
-    "open_issues_count": 155,
-    "forks_count": 505
+    "stargazers_count": 2280,
+    "open_issues_count": 158,
+    "forks_count": 503
   },
   {
     "full_name": "bdsqqq/use-dynamic-refs",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "toji/gl-matrix",
-    "stargazers_count": 4562,
-    "open_issues_count": 76,
-    "forks_count": 677
+    "stargazers_count": 4565,
+    "open_issues_count": 75,
+    "forks_count": 678
   },
   {
     "full_name": "beerose/simple-zustand-devtools",
-    "stargazers_count": 84,
+    "stargazers_count": 87,
     "open_issues_count": 3,
     "forks_count": 3
-  },
-  {
-    "full_name": "mvllow/next-pwa-template",
-    "stargazers_count": 303,
-    "open_issues_count": 0,
-    "forks_count": 26
-  },
-  {
-    "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 5114,
-    "open_issues_count": 189,
-    "forks_count": 881
-  },
-  {
-    "full_name": "pmndrs/maath",
-    "stargazers_count": 401,
-    "open_issues_count": 7,
-    "forks_count": 5
   }
 ]
