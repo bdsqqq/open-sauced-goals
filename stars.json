@@ -13,21 +13,21 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 8115,
-    "open_issues_count": 84,
-    "forks_count": 232
+    "stargazers_count": 8122,
+    "open_issues_count": 85,
+    "forks_count": 233
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 755,
-    "open_issues_count": 18,
-    "forks_count": 21
+    "stargazers_count": 773,
+    "open_issues_count": 22,
+    "forks_count": 22
   },
   {
     "full_name": "vercel-labs/next-swr-endpoints",
-    "stargazers_count": 89,
+    "stargazers_count": 95,
     "open_issues_count": 3,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "KATT/next-router-query",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 4931,
-    "open_issues_count": 118,
-    "forks_count": 250
+    "stargazers_count": 4938,
+    "open_issues_count": 120,
+    "forks_count": 248
   },
   {
     "full_name": "mobends/MoBends",
@@ -49,37 +49,37 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 8177,
-    "open_issues_count": 58,
-    "forks_count": 250
+    "stargazers_count": 8259,
+    "open_issues_count": 60,
+    "forks_count": 251
   },
   {
     "full_name": "cocopon/tweakpane",
-    "stargazers_count": 2048,
+    "stargazers_count": 2049,
     "open_issues_count": 10,
     "forks_count": 52
   },
   {
     "full_name": "pmndrs/leva",
-    "stargazers_count": 2819,
+    "stargazers_count": 2824,
     "open_issues_count": 60,
     "forks_count": 103
   },
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 4724,
+    "stargazers_count": 4743,
     "open_issues_count": 6,
     "forks_count": 72
   },
   {
     "full_name": "markdoc/next.js",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "theKashey/react-focus-on",
-    "stargazers_count": 231,
+    "stargazers_count": 232,
     "open_issues_count": 9,
     "forks_count": 11
   },
@@ -87,7 +87,7 @@
     "full_name": "blackd/Inventory-Profiles",
     "stargazers_count": 61,
     "open_issues_count": 12,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "httptoolkit/react-reverse-portal",
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "modrinth/knossos",
-    "stargazers_count": 184,
-    "open_issues_count": 88,
+    "stargazers_count": 185,
+    "open_issues_count": 91,
     "forks_count": 51
   },
   {
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "molefrog/wouter",
-    "stargazers_count": 4290,
+    "stargazers_count": 4294,
     "open_issues_count": 28,
     "forks_count": 103
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 18322,
-    "open_issues_count": 6,
-    "forks_count": 2483
+    "stargazers_count": 18335,
+    "open_issues_count": 3,
+    "forks_count": 2485
   },
   {
     "full_name": "t3-oss/init.tips",
-    "stargazers_count": 80,
+    "stargazers_count": 82,
     "open_issues_count": 2,
     "forks_count": 14
   },
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 4716,
-    "open_issues_count": 63,
-    "forks_count": 177
+    "stargazers_count": 4743,
+    "open_issues_count": 49,
+    "forks_count": 178
   },
   {
     "full_name": "ariakit/ariakit",
-    "stargazers_count": 5977,
+    "stargazers_count": 5981,
     "open_issues_count": 48,
     "forks_count": 327
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "Munter/subfont",
-    "stargazers_count": 1412,
+    "stargazers_count": 1414,
     "open_issues_count": 14,
     "forks_count": 30
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "IrisShaders/Iris",
     "stargazers_count": 2291,
-    "open_issues_count": 159,
+    "open_issues_count": 157,
     "forks_count": 503
   }
 ]
